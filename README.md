@@ -1,8 +1,8 @@
 # HateSpeechLSTMClassifier
-![学習曲線]
-
+![学習曲線](./learning_curves.png)
 ヘイトスピーチ識別のためのLSTMベースのテキスト分類器です。
 以下のブログ記事で、LSTMを使用してヘイトスピーチを識別する方法について詳しく説明しています。
+[LSTMを用いた英語ヘイトスピーチ識別モデルの構築｜機械学習 – コバヤシ・ノート](https://kobayashinote.com/lstmspeechclassfier/)
 
 ## Environment
 実行が確認できた環境は以下の通りです。
